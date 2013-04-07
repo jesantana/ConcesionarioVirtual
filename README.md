@@ -3,6 +3,8 @@ ConcesionarioVirtual
 
 Concesionario virtual implementado en C# usando OpenGL y el framework TAO. 
 
+![Imagen](/img/captura.png "Imagen")
+
 El coche es un archivo creado en 3dStudio Max y cargado en la aplicacion mediante su descomposición en poligonos.
 
 A los diferentes objetos que componen el modelo 3ds se les realizan cambios en los materiales, asi como 
