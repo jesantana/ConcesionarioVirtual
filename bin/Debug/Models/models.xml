@@ -1,0 +1,45 @@
+<models>
+	<model id="corvette.3DS">
+		<name id="Chevrolet Corvette" />
+		<rot x="-90" y="-90" z="0" />
+		<trans x="0" y="0" z="-30" />
+		<scl x="0.000001" y="0.000001" z="0.000001" />
+		<texture id="model.bmp" />
+	</model>
+	<model id="mb_380sl.3DS">
+		<name id="MB 380" />
+		<rot x="-90" y="90" z="0" />
+		<trans x="0" y="0" z="-20" />
+		<scl x="1" y="1" z="1" />
+		<texture id="model.bmp" />
+	</model>
+	<model id="pic_up.3DS">
+		<name id="Ford Pick Up" />
+		<rot x="0" y="90" z="90" />
+		<trans x="0" y="-3" z="-20" />
+		<scl x="0.04" y="0.04" z="0.04" />
+		<texture id="model.bmp" />
+	</model>
+	<model id="model.3DS">
+		<name id="Ship" />
+		<rot x="270" y="270" z="0" />
+		<trans x="0" y="0.6" z="0" />
+		<scl x="0.015" y="0.015" z="0.015" />
+		<texture id="model.bmp" />
+	</model>
+	
+	<model id="a3dplnt2.3ds">
+		<name id="Mata" />
+		<rot x="270" y="270" z="0" />
+		<trans x="-10" y="0.5" z="-37" />
+		<scl x="0.1" y="0.1" z="0.1" />
+		<texture id="model.bmp" />
+	</model>
+	<model id="sofa.3ds">
+		<name id="Sofa" />
+		<rot x="270" y="0" z="0" />
+		<trans x="-5" y="3" z="-35" />
+		<scl x="0.03" y="0.03" z="0.03" />
+		<texture id="model.bmp" />
+	</model>
+</models>
